@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agrefine</string>
+    <string name="fertilizer_help">First of all select the "crop" name from the drop down menu. Then provide the Nitrogen, Phosphorus and Potassium values of your soil in their respective input fields. Click suggest button to get Fertilizer recommendation</string>
+    <string name="crop_help">Measure the nitrogen, Phosphorus and Potassium levels of your soil as well as its PH. write these values in the respective input Fields. Provide the average Temprature and average Rainfall in their respective fields. Click suggest button to get the best crop recommended for your soil.</string>
+</resources>
